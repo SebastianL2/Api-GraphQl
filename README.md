@@ -1,7 +1,7 @@
 # API  GraphQl
-### Taller - Electiva II
+### 
 
-##### Integrantes de grupo
+##### Integrantes 
 - [Sebastan Cely Peña]
 
 
